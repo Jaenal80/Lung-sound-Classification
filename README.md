@@ -14,6 +14,7 @@ In this study, we used three sources of respiratory sound datasets, namely:
 > **Note:**  
 > Given licensing and distribution rights restrictions, the dataset files are not attached directly in this repository. 
 > Users are advised to visit each of the links listed above to access the dataset through its official source.
+> If you have any questions or confirmations please email: Jaetoga33@gmail.com. Thank you.
 
 ---
 
