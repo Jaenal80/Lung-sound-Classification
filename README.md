@@ -18,7 +18,7 @@ In this study, we used three sources of respiratory sound datasets, namely:
 
 ---
 
-## 📚 Referensi Dataset
+## 📚 References Dataset
 
 - ICBHI Challenge: [https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge](https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge)
 - Kaggle Respiratory Sound Database: [https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database](https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database)
